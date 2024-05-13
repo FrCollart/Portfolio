@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "fr.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1378,7 +1378,7 @@
         }
       ]
     },
-    "en.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Portfolio EN",
